@@ -2,7 +2,6 @@ package com.subhra.eduskill.entity;
 
 
 import jakarta.persistence.*;
-
 import java.time.LocalDateTime;
 
 @Entity
